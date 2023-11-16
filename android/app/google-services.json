@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918482842080",
+    "project_id": "hunarmand-c7acc",
+    "storage_bucket": "hunarmand-c7acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918482842080:android:a5cea7fd7317868f32fb85",
+        "android_client_info": {
+          "package_name": "com.hunarmand.hunarmand_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918482842080-iju51m11vd3cvd2as092me7e97hr1ucb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSedkuFhfqM3zpsIIBn1_h0EcfFXd2A_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918482842080-iju51m11vd3cvd2as092me7e97hr1ucb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
